@@ -1,11 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyCalc", "FancyCalc\FancyCalc.csproj", "{D58EA6F0-6F52-4F31-BCD2-44E0A6020B5A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyCalc.Tests", "FancyCalc.Tests\FancyCalc.Tests.csproj", "{9B259217-7BD7-4391-94A9-E5AABE41EA5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
